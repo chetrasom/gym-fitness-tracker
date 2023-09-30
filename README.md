@@ -19,7 +19,7 @@
 - Pull related videos from youtube
 - Display similar exercises
 
-👉 Live Demo: <a href='https://gymate-stefvndev.vercel.app/'>Gym Fitness Tracker Demo</a>
+👉 Live Demo: <a href='https://gym-fitness-tracker.vercel.app/'>Gym Fitness Tracker Demo</a>
 
 ### Screenshots of the Project
 
