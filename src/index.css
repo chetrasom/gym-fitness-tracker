@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    body {
+        @apply font-roboto font-normal
+    }
+
+    h1, h2, h3 {
+        @apply font-oswald
+    }
+
+    section {
+        @apply py-[80px] xl:py-[100px]
+    }
+
+    .labelBtn {
+        @apply border-2 border-primary bg-bl1 text-white rounded-sm p-2 max-w-max
+        hover:bg-primary transition-all ease-in-out duration-200
+    }
+
+    .hoverBg {
+        @apply hover:bg-primary transition-all ease-in-out duration-100
+    }
+}
